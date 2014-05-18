@@ -1,4 +1,0 @@
-joyRideLogin
-============
-
-Login Part
